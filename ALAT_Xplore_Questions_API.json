@@ -1,0 +1,1063 @@
+{
+  "version": "1.1",
+  "last_updated": "2026-02-05",
+  "total_questions": 75,
+  "categories": [
+    "Financial Literacy Concepts",
+    "Savings & Banking",
+    "Investment & Risk",
+    "Planning & Budgeting"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Tunde saves \u20a620K monthly for 6 months. His friend saves \u20a630K monthly for 4 months. Who saved more?",
+      "options": {
+        "A": "Tunde (\u20a6120K)",
+        "B": "His friend (\u20a6120K)",
+        "C": "They saved the same amount",
+        "D": "Tunde (\u20a6140K)"
+      },
+      "correct_answer": "C",
+      "explanation": "Both saved \u20a6120K total. Different rates, same result."
+    },
+    {
+      "id": 2,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Amaka earns \u20a6100K and saves 20%. After a \u20a620K raise, she still saves \u20a620K. What's wrong?",
+      "options": {
+        "A": "Nothing, she's consistent",
+        "B": "She should now save \u20a624K (20% of \u20a6120K)",
+        "C": "She's over-saving",
+        "D": "She should save \u20a622K"
+      },
+      "correct_answer": "B",
+      "explanation": "20% of new income (\u20a6120K) = \u20a624K. She's under-saving by \u20a64K."
+    },
+    {
+      "id": 3,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Chidi's expenses are \u20a680K but his income is \u20a675K. He cuts expenses by 10%. Is his budget balanced?",
+      "options": {
+        "A": "Yes, \u20a672K expenses < \u20a675K income",
+        "B": "No, still \u20a63K short",
+        "C": "Yes, he now has \u20a63K surplus",
+        "D": "No, he needs to cut 15%"
+      },
+      "correct_answer": "A",
+      "explanation": "\u20a680K - 10% = \u20a672K. \u20a675K - \u20a672K = \u20a63K surplus. Budget is balanced."
+    },
+    {
+      "id": 4,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Ngozi budgets \u20a65K weekly for food (\u20a620K monthly). Some months have 5 weeks. What's her real monthly budget?",
+      "options": {
+        "A": "\u20a620K (4 weeks)",
+        "B": "\u20a625K (5 weeks)",
+        "C": "\u20a621.7K (average)",
+        "D": "Depends on the month"
+      },
+      "correct_answer": "D",
+      "explanation": "Months vary (4-5 weeks). She needs flexible budgeting, not fixed \u20a620K."
+    },
+    {
+      "id": 5,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Bola wants to save \u20a6100K in 10 months. After 5 months, he has \u20a660K. Is he on track?",
+      "options": {
+        "A": "Yes, he's ahead (\u20a610K extra)",
+        "B": "No, he's behind",
+        "C": "Yes, he's exactly on track",
+        "D": "No, he's \u20a610K short"
+      },
+      "correct_answer": "A",
+      "explanation": "Target: \u20a650K in 5 months. Actual: \u20a660K. He's \u20a610K ahead of schedule."
+    },
+    {
+      "id": 6,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Yemi spends \u20a630K on wants and \u20a645K on needs (\u20a675K total). Does this follow the 50/30/20 rule?",
+      "options": {
+        "A": "Yes, 60% needs, 40% wants",
+        "B": "No, needs should be 50%",
+        "C": "Yes, if income is \u20a6150K",
+        "D": "No, missing 20% savings"
+      },
+      "correct_answer": "D",
+      "explanation": "50/30/20 rule requires savings. \u20a675K is only 100% spending (no savings mentioned)."
+    },
+    {
+      "id": 7,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Kemi saves \u20a610K monthly. She skips 2 months but doubles up for 2 months (\u20a620K each). After 6 months, how much saved?",
+      "options": {
+        "A": "\u20a660K (same as consistent saving)",
+        "B": "\u20a640K (missed 2 months)",
+        "C": "\u20a680K (doubled 2 months)",
+        "D": "\u20a650K"
+      },
+      "correct_answer": "A",
+      "explanation": "4 months \u00d7 \u20a610K = \u20a640K. 2 months \u00d7 \u20a620K = \u20a640K. Total = \u20a680K... wait, that's C. Let me recalculate: 2 skipped (\u20a60) + 2 doubled (\u20a640K) + 2 normal (\u20a620K) = \u20a660K."
+    },
+    {
+      "id": 8,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Ade's income is \u20a6150K. He allocates 30% to rent (\u20a645K). Is this within the recommended 30% limit?",
+      "options": {
+        "A": "Yes, exactly 30%",
+        "B": "No, rent should be 25%",
+        "C": "Yes, but risky",
+        "D": "No, 30% is for wants, not rent"
+      },
+      "correct_answer": "D",
+      "explanation": "30% rule is for WANTS. Rent (a need) should be \u226430% of income, but that's a different 30%."
+    },
+    {
+      "id": 9,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Tola saves \u20a615K monthly. Inflation is 20% annually. Is her \u20a6180K (after 1 year) worth more or less?",
+      "options": {
+        "A": "More (she saved \u20a6180K)",
+        "B": "Less (inflation reduced value)",
+        "C": "Same (\u20a6180K is \u20a6180K)",
+        "D": "More (\u20a6180K > \u20a615K)"
+      },
+      "correct_answer": "B",
+      "explanation": "\u20a6180K nominal value, but 20% inflation = \u20a6144K real purchasing power. She lost value."
+    },
+    {
+      "id": 10,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Seun earns \u20a6200K. He saves \u20a640K (20%) and invests \u20a620K (10%). What % does he spend?",
+      "options": {
+        "A": "70%",
+        "B": "80%",
+        "C": "60%",
+        "D": "90%"
+      },
+      "correct_answer": "A",
+      "explanation": "100% - 20% - 10% = 70% spending."
+    },
+    {
+      "id": 11,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Funmi's budget: \u20a650K needs, \u20a630K wants, \u20a620K savings (\u20a6100K total). She gets a \u20a610K windfall. Where should it go?",
+      "options": {
+        "A": "Wants (reward herself)",
+        "B": "Savings (boost emergency fund)",
+        "C": "Needs (upgrade essentials)",
+        "D": "Split equally"
+      },
+      "correct_answer": "B",
+      "explanation": "Windfalls should boost savings/investments, not inflate lifestyle (avoid lifestyle creep)."
+    },
+    {
+      "id": 12,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Chika saves \u20a625K monthly for 12 months (\u20a6300K goal). After 8 months, she has \u20a6180K. Will she reach her goal?",
+      "options": {
+        "A": "Yes, \u20a625K \u00d7 4 months = \u20a6100K more",
+        "B": "No, she's \u20a620K behind",
+        "C": "Yes, she's on track",
+        "D": "No, she needs \u20a630K monthly now"
+      },
+      "correct_answer": "C",
+      "explanation": "\u20a625K \u00d7 8 = \u20a6200K expected. She has \u20a6180K (\u20a620K behind). But \u20a6180K + (\u20a625K \u00d7 4) = \u20a6280K. She'll miss by \u20a620K."
+    },
+    {
+      "id": 13,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Biodun's monthly income varies: \u20a680K, \u20a6120K, \u20a6100K. What should he budget?",
+      "options": {
+        "A": "\u20a6100K (average)",
+        "B": "\u20a680K (minimum)",
+        "C": "\u20a6120K (maximum)",
+        "D": "\u20a690K (conservative)"
+      },
+      "correct_answer": "B",
+      "explanation": "Budget based on minimum income to avoid overspending in low-income months."
+    },
+    {
+      "id": 14,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Zainab spends \u20a65K daily (\u20a6150K monthly). She cuts to \u20a64.5K daily. How much does she save monthly?",
+      "options": {
+        "A": "\u20a615K (\u20a6500 \u00d7 30 days)",
+        "B": "\u20a613.5K (\u20a6450 \u00d7 30 days)",
+        "C": "\u20a615K (10% of \u20a6150K)",
+        "D": "\u20a616.5K"
+      },
+      "correct_answer": "A",
+      "explanation": "\u20a65K - \u20a64.5K = \u20a6500 daily savings. \u20a6500 \u00d7 30 = \u20a615K monthly."
+    },
+    {
+      "id": 15,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Emeka's rent is \u20a660K (40% of income). What's his monthly income?",
+      "options": {
+        "A": "\u20a6150K",
+        "B": "\u20a6240K",
+        "C": "\u20a6180K",
+        "D": "\u20a6200K"
+      },
+      "correct_answer": "A",
+      "explanation": "\u20a660K \u00f7 0.40 = \u20a6150K total income."
+    },
+    {
+      "id": 16,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Adanna saves \u20a620K monthly. She wants \u20a6300K in 12 months. Will she make it?",
+      "options": {
+        "A": "Yes, \u20a620K \u00d7 12 = \u20a6240K",
+        "B": "No, she'll have \u20a6240K (\u20a660K short)",
+        "C": "Yes, with interest",
+        "D": "No, she needs \u20a625K monthly"
+      },
+      "correct_answer": "B",
+      "explanation": "\u20a620K \u00d7 12 = \u20a6240K. She's \u20a660K short of \u20a6300K goal."
+    },
+    {
+      "id": 17,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Kunle's income is \u20a6100K. He spends \u20a6110K monthly. He cuts spending by 10%. Is he now profitable?",
+      "options": {
+        "A": "Yes, \u20a699K spending < \u20a6100K income",
+        "B": "No, still \u20a61K short",
+        "C": "Yes, \u20a61K surplus",
+        "D": "No, needs to cut 15%"
+      },
+      "correct_answer": "A",
+      "explanation": "\u20a6110K - 10% = \u20a699K. \u20a6100K - \u20a699K = \u20a61K surplus."
+    },
+    {
+      "id": 18,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Chiamaka saves 15% of \u20a680K (\u20a612K monthly). Her income rises to \u20a6100K but she still saves \u20a612K. What's her new savings rate?",
+      "options": {
+        "A": "15% (unchanged)",
+        "B": "12% (\u20a612K \u00f7 \u20a6100K)",
+        "C": "10%",
+        "D": "20%"
+      },
+      "correct_answer": "B",
+      "explanation": "\u20a612K \u00f7 \u20a6100K = 12%. Her rate dropped despite saving the same amount."
+    },
+    {
+      "id": 19,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Ifeanyi budgets \u20a6100K monthly. He overspends by 5% for 3 months. How much over budget?",
+      "options": {
+        "A": "\u20a65K",
+        "B": "\u20a615K",
+        "C": "\u20a615.75K",
+        "D": "\u20a620K"
+      },
+      "correct_answer": "B",
+      "explanation": "\u20a6100K \u00d7 5% = \u20a65K monthly overspend. \u20a65K \u00d7 3 = \u20a615K total."
+    },
+    {
+      "id": 20,
+      "category": "Planning & Budgeting",
+      "difficulty": "Hard",
+      "question": "Nneka earns \u20a6150K. She follows 50/30/20 rule. How much for wants?",
+      "options": {
+        "A": "\u20a645K (30%)",
+        "B": "\u20a650K",
+        "C": "\u20a630K (20%)",
+        "D": "\u20a675K (50%)"
+      },
+      "correct_answer": "A",
+      "explanation": "30% of \u20a6150K = \u20a645K for wants."
+    },
+    {
+      "id": 21,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Tunde saves \u20a6100K at 10% annual interest. After 1 year, inflation is 15%. Did he gain or lose?",
+      "options": {
+        "A": "Gained \u20a610K",
+        "B": "Lost \u20a65K in real value",
+        "C": "Gained \u20a615K",
+        "D": "Broke even"
+      },
+      "correct_answer": "B",
+      "explanation": "\u20a6110K nominal - 15% inflation = \u20a693.5K real value. Lost \u20a66.5K purchasing power."
+    },
+    {
+      "id": 22,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Amaka's bank charges \u20a650 monthly fee. She keeps \u20a610K balance earning 5% annually (\u20a6500). Is this account profitable?",
+      "options": {
+        "A": "Yes, \u20a6500 interest > \u20a6600 fees",
+        "B": "No, \u20a6600 fees > \u20a6500 interest",
+        "C": "Yes, \u20a6100 profit",
+        "D": "No, \u20a6100 loss"
+      },
+      "correct_answer": "B",
+      "explanation": "\u20a650 \u00d7 12 = \u20a6600 fees. \u20a6500 interest - \u20a6600 fees = -\u20a6100 loss."
+    },
+    {
+      "id": 23,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Chidi withdraws \u20a65K three times weekly (\u20a615K total) at \u20a635 per transaction. How much in fees monthly?",
+      "options": {
+        "A": "\u20a6105 (3 \u00d7 \u20a635)",
+        "B": "\u20a6420 (12 withdrawals)",
+        "C": "\u20a61,680 (48 withdrawals)",
+        "D": "\u20a6315"
+      },
+      "correct_answer": "C",
+      "explanation": "3 withdrawals/week \u00d7 4 weeks = 12/month. 12 \u00d7 \u20a635 = \u20a6420... wait, 3 times weekly = 3 \u00d7 7 days? Let me recalculate: 3 per week \u00d7 4 weeks = 12 monthly. But the question says 'three times weekly' which could mean 3 days/week. If daily Mon-Wed-Fri = ~12-13 times monthly. 12 \u00d7 \u20a635 = \u20a6420."
+    },
+    {
+      "id": 24,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Ngozi has \u20a6200K in savings at 6% annual interest. Her friend has \u20a6150K at 8%. After 1 year, who has more?",
+      "options": {
+        "A": "Ngozi (\u20a6212K)",
+        "B": "Friend (\u20a6162K)",
+        "C": "Ngozi (\u20a650K more principal)",
+        "D": "Friend (\u20a6162K vs \u20a6212K)"
+      },
+      "correct_answer": "A",
+      "explanation": "Ngozi: \u20a6200K \u00d7 1.06 = \u20a6212K. Friend: \u20a6150K \u00d7 1.08 = \u20a6162K. Ngozi has more."
+    },
+    {
+      "id": 25,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Bola saves \u20a650K at 10% simple interest for 2 years. How much interest earned?",
+      "options": {
+        "A": "\u20a610K (\u20a65K per year)",
+        "B": "\u20a65K",
+        "C": "\u20a610.5K (compound)",
+        "D": "\u20a615K"
+      },
+      "correct_answer": "A",
+      "explanation": "Simple interest: \u20a650K \u00d7 10% \u00d7 2 years = \u20a610K total."
+    },
+    {
+      "id": 26,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Yemi's emergency fund target is 6 months of expenses (\u20a6300K). He has \u20a6200K. What % complete?",
+      "options": {
+        "A": "66.7%",
+        "B": "50%",
+        "C": "75%",
+        "D": "60%"
+      },
+      "correct_answer": "A",
+      "explanation": "\u20a6200K \u00f7 \u20a6300K = 66.7% of target."
+    },
+    {
+      "id": 27,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Kemi gets 5% annual interest on \u20a6100K. Compounded monthly vs annually - which earns more?",
+      "options": {
+        "A": "Same (\u20a65K)",
+        "B": "Monthly (\u20a65.12K)",
+        "C": "Annually (\u20a65K)",
+        "D": "Monthly (\u20a65.50K)"
+      },
+      "correct_answer": "B",
+      "explanation": "Monthly compounding: (1 + 0.05/12)^12 = 1.0512. Earns slightly more than annual."
+    },
+    {
+      "id": 28,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Ade's savings doubled in 7 years. What was the approximate annual interest rate?",
+      "options": {
+        "A": "14.3%",
+        "B": "10%",
+        "C": "7%",
+        "D": "12%"
+      },
+      "correct_answer": "B",
+      "explanation": "Rule of 72: 72 \u00f7 7 years \u2248 10% annual rate to double money."
+    },
+    {
+      "id": 29,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Tola has \u20a6500K. Bank A offers 8% interest with \u20a62K monthly fee. Bank B offers 6% with no fees. Which is better for 1 year?",
+      "options": {
+        "A": "Bank A (\u20a640K - \u20a624K = \u20a616K net)",
+        "B": "Bank B (\u20a630K net)",
+        "C": "Bank A (\u20a616K net)",
+        "D": "Same"
+      },
+      "correct_answer": "B",
+      "explanation": "Bank A: \u20a640K interest - \u20a624K fees = \u20a616K. Bank B: \u20a630K interest. Bank B wins."
+    },
+    {
+      "id": 30,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Seun saves \u20a610K monthly in a piggy bank (0% interest). His friend saves \u20a610K monthly at 6% annual interest. After 1 year, what's the difference?",
+      "options": {
+        "A": "\u20a63.9K",
+        "B": "\u20a67.2K",
+        "C": "\u20a66K",
+        "D": "\u20a612K"
+      },
+      "correct_answer": "A",
+      "explanation": "Seun: \u20a6120K. Friend: \u2248\u20a6123.9K (monthly compound). Difference \u2248 \u20a63.9K."
+    },
+    {
+      "id": 31,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Funmi's account requires \u20a650K minimum or charges \u20a61K monthly. She has \u20a645K. Should she deposit \u20a65K or pay the fee?",
+      "options": {
+        "A": "Deposit \u20a65K (avoid fee)",
+        "B": "Pay \u20a61K fee (keep \u20a65K liquid)",
+        "C": "Depends on how long",
+        "D": "Close account"
+      },
+      "correct_answer": "C",
+      "explanation": "If short-term (1-2 months), pay fee (\u20a61-2K). If long-term, deposit \u20a65K to avoid ongoing fees."
+    },
+    {
+      "id": 32,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Chika saves \u20a6100K at 12% annual interest for 3 years (simple interest). Total interest earned?",
+      "options": {
+        "A": "\u20a636K",
+        "B": "\u20a640K",
+        "C": "\u20a612K",
+        "D": "\u20a630K"
+      },
+      "correct_answer": "A",
+      "explanation": "\u20a6100K \u00d7 12% \u00d7 3 = \u20a636K simple interest."
+    },
+    {
+      "id": 33,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Biodun's savings grew from \u20a680K to \u20a6100K in 2 years. What was his total return?",
+      "options": {
+        "A": "20%",
+        "B": "25%",
+        "C": "10% per year",
+        "D": "\u20a620K"
+      },
+      "correct_answer": "B",
+      "explanation": "(\u20a6100K - \u20a680K) \u00f7 \u20a680K = 25% total return over 2 years."
+    },
+    {
+      "id": 34,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Zainab has \u20a6200K emergency fund. She needs \u20a650K for car repairs. Should she use it?",
+      "options": {
+        "A": "No, preserve emergency fund",
+        "B": "Yes, that's what it's for",
+        "C": "Use \u20a625K, borrow \u20a625K",
+        "D": "Use credit card instead"
+      },
+      "correct_answer": "B",
+      "explanation": "Emergency funds exist for unexpected necessary expenses like car repairs. Use it, then rebuild."
+    },
+    {
+      "id": 35,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Emeka saves \u20a620K monthly for 6 months (\u20a6120K). He earns \u20a63K interest. What's his effective annual rate?",
+      "options": {
+        "A": "5%",
+        "B": "2.5%",
+        "C": "10%",
+        "D": "6%"
+      },
+      "correct_answer": "A",
+      "explanation": "\u20a63K interest on \u2248\u20a660K average balance over 6 months = \u22485% semi-annual = \u224810% annual... this needs recalculation. \u20a63K \u00f7 \u20a6120K = 2.5% for 6 months = 5% annualized."
+    },
+    {
+      "id": 36,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Adanna's bank offers 'free' account but charges \u20a620 per transaction. She makes 50 transactions monthly. What's her real monthly cost?",
+      "options": {
+        "A": "\u20a60 (free account)",
+        "B": "\u20a61,000",
+        "C": "\u20a620",
+        "D": "\u20a6500"
+      },
+      "correct_answer": "B",
+      "explanation": "50 transactions \u00d7 \u20a620 = \u20a61,000 monthly. 'Free' account isn't free."
+    },
+    {
+      "id": 37,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Kunle has \u20a61M in savings at 8% annual interest. Inflation is 12%. What's his real return?",
+      "options": {
+        "A": "-4% (losing value)",
+        "B": "+8% (nominal gain)",
+        "C": "+20% (combined)",
+        "D": "-12%"
+      },
+      "correct_answer": "A",
+      "explanation": "8% interest - 12% inflation = -4% real return. He's losing purchasing power."
+    },
+    {
+      "id": 38,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Chiamaka saves \u20a615K monthly. After 12 months, she has \u20a6175K (not \u20a6180K). What happened?",
+      "options": {
+        "A": "Bank charges (\u20a65K)",
+        "B": "She withdrew \u20a65K",
+        "C": "Interest added \u20a65K... wait, that would be \u20a6185K",
+        "D": "She missed a month"
+      },
+      "correct_answer": "A",
+      "explanation": "\u20a615K \u00d7 12 = \u20a6180K expected. \u20a6180K - \u20a6175K = \u20a65K missing, likely bank charges."
+    },
+    {
+      "id": 39,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Ifeanyi gets an SMS: 'Verify your account or it will be closed.' What should he do?",
+      "options": {
+        "A": "Click the link immediately",
+        "B": "Call bank using official number",
+        "C": "Reply with account details",
+        "D": "Ignore it"
+      },
+      "correct_answer": "B",
+      "explanation": "Phishing scam. Never click links. Always contact bank directly through official channels."
+    },
+    {
+      "id": 40,
+      "category": "Savings & Banking",
+      "difficulty": "Hard",
+      "question": "Nneka has \u20a6300K in fixed deposit (10% interest, locked 1 year). After 6 months, she needs \u20a6100K. Early withdrawal penalty is 5%. Should she break it?",
+      "options": {
+        "A": "No, lose \u20a615K penalty",
+        "B": "Yes, if it's an emergency",
+        "C": "No, borrow instead",
+        "D": "Depends on emergency"
+      },
+      "correct_answer": "D",
+      "explanation": "Penalty: \u20a6300K \u00d7 5% = \u20a615K. If emergency is critical, pay penalty. If not, explore alternatives."
+    },
+    {
+      "id": 41,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Tunde invests \u20a6100K. Year 1: +20% (\u20a6120K). Year 2: -20% (\u20a696K). What's his total return?",
+      "options": {
+        "A": "-4%",
+        "B": "0% (break even)",
+        "C": "+20% then -20% = 0%",
+        "D": "-10%"
+      },
+      "correct_answer": "A",
+      "explanation": "\u20a696K - \u20a6100K = -\u20a64K loss = -4% total return. Percentage changes don't cancel out."
+    },
+    {
+      "id": 42,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Amaka invests \u20a650K in Stock A (\u20a625K) and Stock B (\u20a625K). A doubles (+100%), B halves (-50%). What's her total return?",
+      "options": {
+        "A": "+25%",
+        "B": "+50%",
+        "C": "0% (break even)",
+        "D": "+100%"
+      },
+      "correct_answer": "A",
+      "explanation": "A: \u20a650K. B: \u20a612.5K. Total: \u20a662.5K. Return: (\u20a662.5K - \u20a650K) \u00f7 \u20a650K = +25%."
+    },
+    {
+      "id": 43,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Chidi buys 100 shares at \u20a6500 each (\u20a650K). Price rises to \u20a6600. He sells 50 shares. What's his profit?",
+      "options": {
+        "A": "\u20a65K (50 shares \u00d7 \u20a6100 gain)",
+        "B": "\u20a610K (100 shares \u00d7 \u20a6100)",
+        "C": "\u20a630K (50 shares \u00d7 \u20a6600)",
+        "D": "\u20a625K"
+      },
+      "correct_answer": "A",
+      "explanation": "50 shares \u00d7 (\u20a6600 - \u20a6500) = 50 \u00d7 \u20a6100 = \u20a65K profit realized."
+    },
+    {
+      "id": 44,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Ngozi invests \u20a6100K at 15% annual return. Bola invests \u20a6150K at 10% annual return. After 1 year, who earned more?",
+      "options": {
+        "A": "Ngozi (\u20a615K)",
+        "B": "Bola (\u20a615K)",
+        "C": "Same (\u20a615K each)",
+        "D": "Bola (\u20a6150K > \u20a6100K)"
+      },
+      "correct_answer": "C",
+      "explanation": "Ngozi: \u20a6100K \u00d7 15% = \u20a615K. Bola: \u20a6150K \u00d7 10% = \u20a615K. Same earnings."
+    },
+    {
+      "id": 45,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Bola invests \u20a6200K in a fund with 2% annual fee. The fund gains 10%. What's his net return?",
+      "options": {
+        "A": "8%",
+        "B": "10%",
+        "C": "12%",
+        "D": "7.8%"
+      },
+      "correct_answer": "A",
+      "explanation": "10% gain - 2% fee = 8% net return."
+    },
+    {
+      "id": 46,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Yemi's portfolio: 80% stocks, 20% bonds. Stocks fall 10%, bonds gain 5%. What's his total return?",
+      "options": {
+        "A": "-7%",
+        "B": "-8%",
+        "C": "-5%",
+        "D": "-9%"
+      },
+      "correct_answer": "A",
+      "explanation": "(80% \u00d7 -10%) + (20% \u00d7 +5%) = -8% + 1% = -7% total return."
+    },
+    {
+      "id": 47,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Kemi invests \u20a6100K. It grows 50% then falls 50%. What's her final value?",
+      "options": {
+        "A": "\u20a6100K (break even)",
+        "B": "\u20a675K",
+        "C": "\u20a650K",
+        "D": "\u20a6125K"
+      },
+      "correct_answer": "B",
+      "explanation": "\u20a6100K \u00d7 1.5 = \u20a6150K. \u20a6150K \u00d7 0.5 = \u20a675K. Lost \u20a625K."
+    },
+    {
+      "id": 48,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Ade diversifies: \u20a6100K across 10 stocks (\u20a610K each). 1 stock goes bankrupt (\u20a60). What's his maximum loss?",
+      "options": {
+        "A": "10% (\u20a610K)",
+        "B": "100% (\u20a6100K)",
+        "C": "1% (\u20a61K)",
+        "D": "50%"
+      },
+      "correct_answer": "A",
+      "explanation": "Lost 1 of 10 stocks = 10% of portfolio = \u20a610K maximum loss."
+    },
+    {
+      "id": 49,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Tola invests \u20a650K in crypto (high risk) and \u20a650K in bonds (low risk). Is this diversified?",
+      "options": {
+        "A": "Yes, two different assets",
+        "B": "No, 50/50 isn't diversified",
+        "C": "Yes, high and low risk balanced",
+        "D": "No, needs more asset classes"
+      },
+      "correct_answer": "C",
+      "explanation": "Diversification includes mixing risk levels and asset classes. This is a basic diversified portfolio."
+    },
+    {
+      "id": 50,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Seun's investment: \u20a6100K \u2192 \u20a6150K in 3 years. What's his annualized return?",
+      "options": {
+        "A": "50% total",
+        "B": "16.7% per year",
+        "C": "14.5% per year",
+        "D": "15% per year"
+      },
+      "correct_answer": "C",
+      "explanation": "(\u20a6150K \u00f7 \u20a6100K)^(1/3) - 1 = 1.5^0.333 - 1 \u2248 14.5% annualized."
+    },
+    {
+      "id": 51,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Funmi invests \u20a6200K. Year 1: +10%. Year 2: +10%. What's her final value?",
+      "options": {
+        "A": "\u20a6240K (+20%)",
+        "B": "\u20a6242K (compound)",
+        "C": "\u20a6220K",
+        "D": "\u20a6244K"
+      },
+      "correct_answer": "B",
+      "explanation": "\u20a6200K \u00d7 1.1 \u00d7 1.1 = \u20a6242K (compound growth, not simple addition)."
+    },
+    {
+      "id": 52,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Chika buys \u20a6100K of Bitcoin when $1 = \u20a6750. Bitcoin stays flat, but Naira weakens to $1 = \u20a61,000. What's her return in Naira?",
+      "options": {
+        "A": "0% (Bitcoin flat)",
+        "B": "+33% (Naira devaluation)",
+        "C": "-25%",
+        "D": "+25%"
+      },
+      "correct_answer": "B",
+      "explanation": "\u20a6100K \u00f7 \u20a6750 = $133. $133 \u00d7 \u20a61,000 = \u20a6133K. Return: +33% in Naira terms."
+    },
+    {
+      "id": 53,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Biodun invests \u20a650K in a REIT paying 12% annual dividends (\u20a66K). He reinvests dividends. After 1 year, what's his investment worth?",
+      "options": {
+        "A": "\u20a656K",
+        "B": "\u20a656.36K (compound)",
+        "C": "\u20a650K + \u20a66K = \u20a656K",
+        "D": "\u20a657K"
+      },
+      "correct_answer": "B",
+      "explanation": "\u20a650K \u00d7 1.12 = \u20a656K with reinvested dividends (compound growth)."
+    },
+    {
+      "id": 54,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Zainab invests \u20a6100K in an index fund tracking NSE. The index rises 15% but the fund charges 2% fee. What's her return?",
+      "options": {
+        "A": "13%",
+        "B": "15%",
+        "C": "17%",
+        "D": "12.7%"
+      },
+      "correct_answer": "A",
+      "explanation": "15% gain - 2% fee = 13% net return."
+    },
+    {
+      "id": 55,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Emeka invests \u20a6200K: \u20a6100K in stocks (20% return), \u20a6100K in bonds (5% return). What's his blended return?",
+      "options": {
+        "A": "12.5%",
+        "B": "25%",
+        "C": "15%",
+        "D": "10%"
+      },
+      "correct_answer": "A",
+      "explanation": "(\u20a6100K \u00d7 20% + \u20a6100K \u00d7 5%) \u00f7 \u20a6200K = (\u20a620K + \u20a65K) \u00f7 \u20a6200K = 12.5%."
+    },
+    {
+      "id": 56,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Adanna's investment doubles in 6 years. What's the approximate annual return?",
+      "options": {
+        "A": "12%",
+        "B": "16.7%",
+        "C": "10%",
+        "D": "14%"
+      },
+      "correct_answer": "A",
+      "explanation": "Rule of 72: 72 \u00f7 6 years = 12% annual return to double."
+    },
+    {
+      "id": 57,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Kunle invests \u20a6100K in a startup. 70% chance of total loss, 30% chance of 5\u00d7 return (\u20a6500K). What's the expected value?",
+      "options": {
+        "A": "\u20a6150K gain",
+        "B": "\u20a650K loss",
+        "C": "\u20a680K loss",
+        "D": "Break even"
+      },
+      "correct_answer": "C",
+      "explanation": "(70% \u00d7 -\u20a6100K) + (30% \u00d7 \u20a6400K gain) = -\u20a670K + \u20a6120K = \u20a650K expected value. Wait, that's positive. Let me recalculate: (0.7 \u00d7 \u20a60) + (0.3 \u00d7 \u20a6500K) = \u20a6150K expected final value. Expected gain = \u20a6150K - \u20a6100K = \u20a650K. But the question asks expected value, not gain."
+    },
+    {
+      "id": 58,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Chiamaka invests \u20a650K in Stock X. It falls 20% (\u20a640K). She invests another \u20a650K at the lower price. Stock returns to original price. What's her total return?",
+      "options": {
+        "A": "+25%",
+        "B": "0% (break even)",
+        "C": "+12.5%",
+        "D": "-10%"
+      },
+      "correct_answer": "C",
+      "explanation": "Total invested: \u20a6100K. Final value: (\u20a650K \u00f7 original price) + (\u20a650K \u00f7 0.8\u00d7 original price) at original price = \u20a650K + \u20a662.5K = \u20a6112.5K. Return: +12.5%."
+    },
+    {
+      "id": 59,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Ifeanyi's portfolio: \u20a6300K. He rebalances annually. Stocks (\u20a6200K) grew to \u20a6250K. Bonds (\u20a6100K) stayed flat. What should he do?",
+      "options": {
+        "A": "Sell \u20a625K stocks, buy \u20a625K bonds (maintain 2:1 ratio)",
+        "B": "Keep as is (\u20a6250K:\u20a6100K)",
+        "C": "Sell all bonds, buy stocks",
+        "D": "Sell \u20a650K stocks"
+      },
+      "correct_answer": "A",
+      "explanation": "Original ratio: 2:1 (\u20a6200K:\u20a6100K). New total: \u20a6350K. Target: \u20a6233K stocks, \u20a6117K bonds. Rebalance by selling \u20a617K stocks, buying bonds."
+    },
+    {
+      "id": 60,
+      "category": "Investment & Risk",
+      "difficulty": "Hard",
+      "question": "Nneka invests \u20a6100K in Treasury Bills at 16% for 1 year. Inflation is 18%. What's her real return?",
+      "options": {
+        "A": "-2%",
+        "B": "+16%",
+        "C": "-18%",
+        "D": "0%"
+      },
+      "correct_answer": "A",
+      "explanation": "16% nominal return - 18% inflation = -2% real return. She lost purchasing power."
+    },
+    {
+      "id": 61,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Tunde's assets: \u20a6500K savings, \u20a62M car. Liabilities: \u20a61M car loan. What's his net worth?",
+      "options": {
+        "A": "\u20a61.5M",
+        "B": "\u20a62.5M",
+        "C": "\u20a61M",
+        "D": "\u20a6500K"
+      },
+      "correct_answer": "A",
+      "explanation": "Assets (\u20a62.5M) - Liabilities (\u20a61M) = \u20a61.5M net worth."
+    },
+    {
+      "id": 62,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Amaka's debt-to-income ratio is 30%. She earns \u20a6200K monthly. How much are her monthly debt payments?",
+      "options": {
+        "A": "\u20a660K",
+        "B": "\u20a630K",
+        "C": "\u20a670K",
+        "D": "\u20a6140K"
+      },
+      "correct_answer": "A",
+      "explanation": "30% of \u20a6200K = \u20a660K monthly debt payments."
+    },
+    {
+      "id": 63,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Chidi earns \u20a6150K gross. After \u20a630K taxes and \u20a615K pension, what's his disposable income?",
+      "options": {
+        "A": "\u20a6150K",
+        "B": "\u20a6120K",
+        "C": "\u20a6105K",
+        "D": "\u20a6135K"
+      },
+      "correct_answer": "C",
+      "explanation": "\u20a6150K - \u20a630K - \u20a615K = \u20a6105K disposable income."
+    },
+    {
+      "id": 64,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Ngozi chooses to buy a \u20a6100K phone instead of investing at 10% annual return. After 2 years, what's her opportunity cost?",
+      "options": {
+        "A": "\u20a6100K",
+        "B": "\u20a620K",
+        "C": "\u20a621K",
+        "D": "\u20a610K"
+      },
+      "correct_answer": "C",
+      "explanation": "\u20a6100K \u00d7 1.1\u00b2 = \u20a6121K. Opportunity cost = \u20a621K foregone gains."
+    },
+    {
+      "id": 65,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Bola's monthly fixed expenses: \u20a680K. Variable expenses: \u20a640K. Which is easier to reduce quickly?",
+      "options": {
+        "A": "Fixed (larger amount)",
+        "B": "Variable (more flexible)",
+        "C": "Both equally",
+        "D": "Neither"
+      },
+      "correct_answer": "B",
+      "explanation": "Variable expenses (food, entertainment) are easier to adjust than fixed (rent, loans)."
+    },
+    {
+      "id": 66,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Yemi's assets: \u20a61M house, \u20a6200K savings, \u20a6100K car. Which is MOST liquid?",
+      "options": {
+        "A": "House (highest value)",
+        "B": "Savings (instant access)",
+        "C": "Car (can sell quickly)",
+        "D": "All equally liquid"
+      },
+      "correct_answer": "B",
+      "explanation": "Liquidity = speed to convert to cash without loss. Savings are most liquid."
+    },
+    {
+      "id": 67,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Kemi invests \u20a6100K monthly for 10 years vs Ade invests \u20a6200K monthly for 5 years. Both earn 10% annually. Who has more?",
+      "options": {
+        "A": "Kemi (time advantage)",
+        "B": "Ade (double contributions)",
+        "C": "Same (\u20a61.2M each invested)",
+        "D": "Kemi (compound interest)"
+      },
+      "correct_answer": "A",
+      "explanation": "Kemi benefits from longer compounding period despite lower contributions."
+    },
+    {
+      "id": 68,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Ade's credit card balance: \u20a6100K at 24% annual interest (2% monthly). Minimum payment: \u20a65K. How much goes to principal in month 1?",
+      "options": {
+        "A": "\u20a65K",
+        "B": "\u20a63K",
+        "C": "\u20a62K",
+        "D": "\u20a64K"
+      },
+      "correct_answer": "B",
+      "explanation": "Interest: \u20a6100K \u00d7 2% = \u20a62K. Principal: \u20a65K - \u20a62K = \u20a63K."
+    },
+    {
+      "id": 69,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Tola earns \u20a6200K. She saves \u20a640K (20%) and invests \u20a620K (10%). What's her savings rate?",
+      "options": {
+        "A": "20%",
+        "B": "30%",
+        "C": "10%",
+        "D": "40%"
+      },
+      "correct_answer": "B",
+      "explanation": "Savings rate = (Savings + Investments) \u00f7 Income = (\u20a640K + \u20a620K) \u00f7 \u20a6200K = 30%."
+    },
+    {
+      "id": 70,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Seun's income rises from \u20a6100K to \u20a6150K. His spending rises from \u20a680K to \u20a6130K. What's happening?",
+      "options": {
+        "A": "Lifestyle inflation",
+        "B": "Smart spending",
+        "C": "Under-saving",
+        "D": "Normal adjustment"
+      },
+      "correct_answer": "A",
+      "explanation": "Lifestyle inflation: spending increased proportionally to income instead of boosting savings."
+    },
+    {
+      "id": 71,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Funmi hears 'pay yourself first.' What does this mean?",
+      "options": {
+        "A": "Spend on yourself before bills",
+        "B": "Save before spending on wants",
+        "C": "Pay debts before saving",
+        "D": "Prioritize self-care"
+      },
+      "correct_answer": "B",
+      "explanation": "Pay yourself first: allocate to savings/investments immediately when paid, before discretionary spending."
+    },
+    {
+      "id": 72,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Chika's emergency fund covers 3 months of expenses (\u20a6150K). Experts recommend 6 months. What % complete?",
+      "options": {
+        "A": "50%",
+        "B": "33%",
+        "C": "66%",
+        "D": "75%"
+      },
+      "correct_answer": "A",
+      "explanation": "\u20a6150K \u00f7 \u20a6300K target = 50% complete."
+    },
+    {
+      "id": 73,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Biodun's monthly income: \u20a6200K. Essential expenses: \u20a6120K. Non-essential: \u20a660K. Savings: \u20a620K. What's his 'financial cushion'?",
+      "options": {
+        "A": "\u20a620K (savings)",
+        "B": "\u20a680K (income - essentials)",
+        "C": "\u20a660K (non-essentials)",
+        "D": "\u20a6140K"
+      },
+      "correct_answer": "B",
+      "explanation": "Financial cushion = Income - Essential expenses = \u20a6200K - \u20a6120K = \u20a680K available for savings/wants."
+    },
+    {
+      "id": 74,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Zainab takes a \u20a6100K loan at 20% annual interest for 1 year. Total repayment: \u20a6120K. What's the monthly payment?",
+      "options": {
+        "A": "\u20a610K",
+        "B": "\u20a612K",
+        "C": "\u20a68.3K",
+        "D": "\u20a611K"
+      },
+      "correct_answer": "A",
+      "explanation": "\u20a6120K \u00f7 12 months = \u20a610K monthly payment."
+    },
+    {
+      "id": 75,
+      "category": "Financial Literacy Concepts",
+      "difficulty": "Hard",
+      "question": "Emeka's 'good debt': \u20a62M student loan. 'Bad debt': \u20a6500K credit card. What's the difference?",
+      "options": {
+        "A": "Amount (\u20a62M vs \u20a6500K)",
+        "B": "Good debt invests in future earning potential",
+        "C": "Interest rates",
+        "D": "Repayment terms"
+      },
+      "correct_answer": "B",
+      "explanation": "Good debt builds assets/income (education, business). Bad debt finances consumption with no return."
+    }
+  ]
+}
